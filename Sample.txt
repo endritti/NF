@@ -4,3 +4,5 @@ TEST@
 third update
 
 Testing new branch
+
+Testing merge command
